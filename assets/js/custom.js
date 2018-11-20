@@ -4,25 +4,7 @@ $(function () {
     
     "use strict";
     
-/*==================================
-    * Author        : Ideas_Factory
-    * Template Name : Morgan - Creative Portfolio Template
-==================================== */
-    
-/*=========== TABLE OF CONTENTS ===========
 
-    01. Isotope Plugin
-    02. window height
-    03. Navbar
-    04. Smooth Scroll
-    05. MagnifPopup Plugin
-    06. Form Validation
-    07. Window Scroll
-    08. Window Resize
-    09. FitText Plugin
-    10. Preloader
-
-======================================*/
 
     var $grid = $('.grid'),
         i;
